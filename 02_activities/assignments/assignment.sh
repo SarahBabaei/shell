@@ -1,7 +1,3 @@
-Data Availability
-Minimal datasets are available on GitHub (https://github.com/SarahBabaei/3Ps_Atlantic_Cod).
-Raw data available at Sequence Read Archive (PRJNA1178142).
-
 #!/bin/bash
 set -x
 
